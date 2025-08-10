@@ -4,22 +4,22 @@ This is a simple HTML project from The Odin Project showcasing three dessert rec
 
 ##Recipes Present
 
--RasMalaai
--KajuKatli
--Ghee MysorePak
+-RasMalaai  
+-KajuKatli  
+-Ghee MysorePak 
 
 ##Features
 
--Each recipe has its own description, ingredients needed and steps.
--A navigation link present between the homepage and recipe pages.
+-Each recipe has its own description, ingredients needed and steps.  
+-A navigation link present between the homepage and recipe pages.  
 
 ##Credits
 
 #Image Credits:
 
--RasMalai: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.
--KajuKatli: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.
--Ghee MysorePak: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.
+-RasMalai: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.  
+-KajuKatli: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.  
+-Ghee MysorePak: AI-Generated using OpenAI's DALL·E, styled and requested by Jayashree with assistance from ChatGPT.  
 
 #Content Credits:
 
